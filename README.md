@@ -1,5 +1,8 @@
-# document
+# Document
 some documents&amp;descriptions regarding boy platform.
+
+# platform version
+1.0-元古代(Proterozoic Era)
 
 # 开发者序言
 
